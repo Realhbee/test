@@ -22,8 +22,26 @@ PROBLEM SATEMENT:
 9. Best selling channels.
 
 
+# HR ANALYTICS DASHBOARD
 
+Description of dataset
 
+The dataset contains data from the HR department of a company. The data features the details of each staff member, job satisfaction level, education status.
 
+The dataset contains 1471 rows and 44 columns 
+
+SNAPSHOT OF THE SALES DASHBOARD USING EXCEL:
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/105416839/230059948-4b290946-341c-4197-8e2c-55c20bc6e7ae.png">
+
+ # SUMMARY
  
+. The average year of service in the company is 11 years
+. The company have had a total employee of 1470 with 882 being male and 588 female
+. Active employees are 1233
+. The company has a young work force with staff between the age of 25-34 and 35-33 making up 72% of the workforce
+. Attrition rate in the company is at 16% with research and development depeartment having the highest rate
+. 85% of the workforce are educated to at least associates degree
+
+
 
